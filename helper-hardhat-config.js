@@ -18,6 +18,7 @@ const networkConfig = {
         keepersUpdateInterval: "30",
         raffleEntranceFee: "100000000000000000", // 0.1 ETH
         callbackGasLimit: "500000", // 500,000 gas
+        
     },
     1: {
         name: "mainnet",
